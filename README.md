@@ -1,4 +1,4 @@
-# Self-centering 3-DOF feet controller for hands-free locomotion control in telepresence and virtual reality
+# Self-centering 3-DoF feet controller for hands-free locomotion control in telepresence and virtual reality
 <img src="images/teaser.png" alt="Locomotion Controller overview" width=200>
 
 This repository hosts the model files for a mostly 3D printed hands-free locomotion controller.
