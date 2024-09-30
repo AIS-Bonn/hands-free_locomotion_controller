@@ -3,6 +3,9 @@
 
 This repository hosts the model files for a mostly 3D printed hands-free locomotion controller.
 
+A video abstract can be found here:
+[![Locomotion Controller Video Abstract ](images/hands-free_locomotion_controller_video_preview.png)](https://youtu.be/z8Ul552-8KM)
+
 To assemble you require:
 
 * 50x70x14 mm thrust bearing (1) 
